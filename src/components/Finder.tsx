@@ -44,7 +44,7 @@ export const Finder = (props: FinderProps) => {
         <Fragment>
             {!hideCount && <Counter scanCount={scanCount} />}
             {tracker && <Tracker video={video} result={result} constraints={constraints} deviceId={deviceId} scanDelay={scanDelay} />}
-            <svg
+            {/* <svg
                 viewBox="0 0 100 100"
                 style={{
                     top: 0,
@@ -61,7 +61,7 @@ export const Finder = (props: FinderProps) => {
                 <path fill="none" d="M0,77 L0,100 L23,100" stroke={color} strokeWidth="5" />
                 <path fill="none" d="M77,100 L100,100 L100,77" stroke={color} strokeWidth="5" />
                 <path fill="none" d="M100,23 L100,0 77,0" stroke={color} strokeWidth="5" />
-            </svg>
+            </svg> */}
         </Fragment>
     );
 };
