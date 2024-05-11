@@ -1,17 +1,17 @@
 {
-  "name": "@dennis-baca/react-qr-scanner",
-  "version": "1.2.10",
+  "name": "@dennis-baca/react-qrcode-scanner",
+  "version": "1.0.0",
   "description": "A library to scan qr codes in react.",
-  "author": "Yudiel Curbelo",
+  "author": "Dennis Baca And Yudiel Curbelo",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yudielcurbelo/react-qr-scanner.git"
+    "url": "git+https://github.com/Dennis-Baca/react-qrcode-scanner"
   },
   "bugs": {
-    "url": "https://github.com/yudielcurbelo/react-qr-scanner/issues"
+    "url": "https://github.com/Dennis-Baca/react-qrcode-scanner/issues"
   },
-  "homepage": "https://github.com/yudielcurbelo/react-qr-scanner#readme",
+  "homepage": "https://github.com/Dennis-Baca/react-qrcode-scanner#readme",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
