@@ -1,6 +1,6 @@
 {
   "name": "@dennis-baca/react-qrcode-scanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to scan qr codes in react.",
   "author": "Dennis Baca And Yudiel Curbelo",
   "license": "MIT",
