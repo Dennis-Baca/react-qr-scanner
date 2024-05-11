@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dennis-Baca/react-qrcode-scanner"
+    "url": "git+https://github.com/Dennis-Baca/react-qrcode-scanner.git"
   },
   "bugs": {
     "url": "https://github.com/Dennis-Baca/react-qrcode-scanner/issues"
