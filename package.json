@@ -1,6 +1,6 @@
 {
   "name": "@dennis-baca/react-qrcode-scanner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library to scan qr codes in react.",
   "author": "Dennis Baca And Yudiel Curbelo",
   "license": "MIT",
@@ -21,7 +21,7 @@
   "scripts": {
     "build": "rollup -c",
     "build:esm": "tsc",
-    "build:cjs": "tsc --module CommonJS --outDir dist/cjs",
+    "build:cjs": "tsc --module esnext --outDir dist/cjs",
     "storybook": "NODE_OPTIONS=--openssl-legacy-provider && storybook dev -p 6006",
     "build-storybook": "storybook build",
     "publish": "npm publish",
